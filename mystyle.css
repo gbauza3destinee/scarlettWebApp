@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color:yellow;    
+    padding-left: 30px;
+    font-size: 4rem;
+    
+}
+ #button{
+    font-size: 2rem;
+    padding: 15px;
+ }
